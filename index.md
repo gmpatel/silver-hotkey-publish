@@ -2,7 +2,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-![][images/HotKey.png]
+[<img alt="alt_text" width="40px" src="images/HotKey.png" />](https://www.google.com/)
 
 ## Welcome to GitHub Pages
 
