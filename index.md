@@ -2,6 +2,8 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
+[Image](images/app-ss-1.png)
+
 ### Files / Folders / Applications / Urls
 ```markdown
 - Trigger > Open Files
