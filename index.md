@@ -2,24 +2,28 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-[<img style="width: 64px;" alt="alt_text" width="40px" src="images/HotKey.png" />](https://www.google.com/)
-
-## Key Features
+## Files / Directories / Applications / Url Links / Triggers
 
 - Open Folder
 - Open File
 - Open / Execute Application
 - Open Url Link
 
-And on top of these there are some awesome tasks provided by Silver HotKey
+## Media Player Functions
 
 - Media Play / Pause
 - Media Previous Track
 - Media Next Track
 - Media Stop
+
+## System Operations
+
 - System Volume Increase
 - System Volume Mute / Unmute
 - System Volume Decrease
+
+## Silver HotKey Operations
+
 - Silver HotKey Toggle Visibility
 - Silver HotKey Bring To Centre Of Primary Screen
 - Silver HotKey Exit Application
@@ -59,3 +63,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![Image](images/HotKey.png)
+[<img style="width: 64px;" alt="alt_text" width="40px" src="images/HotKey.png" />](https://www.google.com/)
