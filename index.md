@@ -2,12 +2,12 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-## Files / Directories / Applications / Url Links
+## Files / Directories / Applications / Urls
 ```markdown
 - Trigger > Open Folders
 - Trigger > Open Files
 - Trigger > Open / Execute Applications
-- Trigger > Open Urls / Links
+- Trigger > Open Urls
 ```
 
 ## Media Player Functions
