@@ -2,24 +2,22 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-<div style="text-align: center"><img style="width: 650px;" src="images/app-ss-1.png"/></div>
+<div style="text-align: center"><img style="width: 100%;" src="images/app-ss-1.png"/></div>
 
 ### Files / Folders / Applications / Urls
-```markdown
+
 - Trigger > Open Files
 - Trigger > Open Folders
 - Trigger > Open / Execute Applications
 - Trigger > Open Urls
-```
 
 
 ### Media Player Functions
-```markdown
+
 - Media Previous Track
 - Media Next Track
 - Media Play / Pause
 - Media Stop
-```
 
 
 ### System Operations
