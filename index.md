@@ -1,6 +1,8 @@
 <head>
-  <link rel="app icon" type="image/x-icon" href="favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
+
+![][images/HotKey.png]
 
 ## Welcome to GitHub Pages
 
