@@ -2,7 +2,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-## Files / Folders / Applications / Urls
+### Files / Folders / Applications / Urls
 ```markdown
 - Trigger > Open Files
 - Trigger > Open Folders
@@ -10,7 +10,8 @@
 - Trigger > Open Urls
 ```
 
-## Media Player Functions
+
+### Media Player Functions
 ```markdown
 - Media Previous Track
 - Media Next Track
@@ -18,14 +19,16 @@
 - Media Stop
 ```
 
-## System Operations
+
+### System Operations
 ```markdown
 - System Volume Increase
 - System Volume Mute / Unmute
 - System Volume Decrease
 ```
 
-## Silver HotKey Operations
+
+### Silver HotKey Operations
 ```markdown
 - Silver HotKey Toggle Visibility
 - Silver HotKey Bring To Centre Of Primary Screen
