@@ -2,7 +2,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-[Image](images/app-ss-1.png)
+<div style="text-align: center"><img style="width: 650px;" src="images/app-ss-1.png"/></div>
 
 ### Files / Folders / Applications / Urls
 ```markdown
