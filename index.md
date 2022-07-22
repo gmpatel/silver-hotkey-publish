@@ -2,11 +2,27 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-[<img style="width: 64px; float: left" alt="alt_text" width="40px" src="images/HotKey.png" />](https://www.google.com/)
+[<img style="width: 64px;" alt="alt_text" width="40px" src="images/HotKey.png" />](https://www.google.com/)
 
-<span style="float: right">Silver HotKey</span>
+## Key Features
 
-## Welcome to GitHub Pages
+- Open Folder
+- Open File
+- Open / Execute Application
+- Open Url Link
+
+And on top of these there are some awesome tasks provided by Silver HotKey
+
+- Media Play / Pause
+- Media Previous Track
+- Media Next Track
+- Media Stop
+- System Volume Increase
+- System Volume Mute / Unmute
+- System Volume Decrease
+- Silver HotKey Toggle Visibility
+- Silver HotKey Bring To Centre Of Primary Screen
+- Silver HotKey Exit Application
 
 You can use the [editor on GitHub](https://github.com/gmpatel/silver-hotkey-publish/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
