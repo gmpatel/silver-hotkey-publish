@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Silver HotKey
 description: Ultimately awesome keyboard macro/shortcut utility for Windows OS, which turns your keyboard to powerful tool for shorthand useful keyboard shortcuts!
+show_downloads: true
+github:
+  zip_url: packages/publish.zip
+  another_url: another value
