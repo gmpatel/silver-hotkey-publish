@@ -2,31 +2,35 @@
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-## Files / Directories / Applications / Url Links / Triggers
-
-- Open Folder
-- Open File
-- Open / Execute Application
-- Open Url Link
+## Files / Directories / Applications / Url Links
+```markdown
+- Trigger > Open Folders
+- Trigger > Open Files
+- Trigger > Open / Execute Applications
+- Trigger > Open Urls / Links
+```
 
 ## Media Player Functions
-
-- Media Play / Pause
+```markdown
 - Media Previous Track
 - Media Next Track
+- Media Play / Pause
 - Media Stop
+```
 
 ## System Operations
-
+```markdown
 - System Volume Increase
 - System Volume Mute / Unmute
 - System Volume Decrease
+```
 
 ## Silver HotKey Operations
-
+```markdown
 - Silver HotKey Toggle Visibility
 - Silver HotKey Bring To Centre Of Primary Screen
 - Silver HotKey Exit Application
+```
 
 You can use the [editor on GitHub](https://github.com/gmpatel/silver-hotkey-publish/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
